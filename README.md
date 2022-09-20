@@ -10,7 +10,7 @@
 
 ## Links
 Deployed at: https://632a22c204beb617c6d1078a--meek-marzipan-6344b2.netlify.app/ </br>
-Github: 
+Github: https://github.com/KKWChao/YoutubeClone
 
 ## Purpose
 A youtube clone that can play and search for videos
